@@ -65,7 +65,7 @@ p/s:
 # Tạo Bảng mang tên phiếu nhập 
 # ![Screenshot 2025-04-21 181521](https://github.com/user-attachments/assets/79e4c511-5ab9-4a2a-8dc6-0259ddcdbef0)
 # Tạo Bảng chi tiết hoá đơn
-# ![Screenshot 2025-04-21 181629](https://github.com/user-attachments/assets/a763eed9-3f8a-4fd6-9f95-569aed4de33d)
+# ![Screenshot 2025-04-21 184505](https://github.com/user-attachments/assets/76d0409f-b1ed-4937-a97e-5850378b75d6)
 # Tạo Bảng chi tiết phiếu nhập 
 # ![Screenshot 2025-04-21 182024](https://github.com/user-attachments/assets/9ec532be-896f-4610-ba95-72b8da38b610)
 # Tạo Bảng chi tiết đặt bàn
