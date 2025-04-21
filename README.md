@@ -83,7 +83,7 @@ p/s:
 # Tạo bảng chi tiết nhà cung cấp
 # ![Screenshot 2025-04-21 182734](https://github.com/user-attachments/assets/26f22492-bdf6-4ee4-9486-aeb5440b834b)
 # Tạo bảng chi tiết nhân viên 
-# ![Screenshot 2025-04-21 182734](https://github.com/user-attachments/assets/943b7639-430f-42ae-961c-ec4dab07bec6)
+# ![Screenshot 2025-04-21 184649](https://github.com/user-attachments/assets/2c13b489-e49d-45b5-8601-785cc27a3f32)
 # Các Khoá Ngoại Liên Kết cho các bảng 
 # ![Screenshot 2025-04-21 183251](https://github.com/user-attachments/assets/41c3ee29-828f-488f-8dee-8fa1ac6856ef)
 # ![Screenshot 2025-04-21 183316](https://github.com/user-attachments/assets/3b167f99-41a3-436b-9ce4-64adfeef8c43)
