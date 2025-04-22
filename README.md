@@ -95,5 +95,5 @@ p/s:
 # Tạo bảng liên kết quản lý nhà hàng
 # ![Screenshot 2025-04-21 180145](https://github.com/user-attachments/assets/c10bd232-b48b-4de9-b1a4-136d644bc339)
 # B.Nội dung Bài Tập 5
-# 1. Tạo csdl cho hệ thống quản lý hiệu thuốc
+# 1. Tạo csdl cho hệ thống quản lý nhà hàng
 # 
