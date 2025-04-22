@@ -96,4 +96,14 @@ p/s:
 # ![Screenshot 2025-04-21 180145](https://github.com/user-attachments/assets/c10bd232-b48b-4de9-b1a4-136d644bc339)
 # B.Nội dung Bài Tập 5
 # 1. Tạo csdl cho hệ thống quản lý nhà hàng
-# 
+# 2.Bổ sung thêm trường phi chuẩn: Cảnh bảo nguyên liệu hết hạn 
+# 3.Viết trigger cho bảng chi tiết phiếu xuất để đạt được mục tiêu
+# .Bấm vào dấu "+" của bảng chi tiết phiếu xuất và chuột vào trigger rồi ấn new trigger
+# ![Screenshot 2025-04-22 102709](https://github.com/user-attachments/assets/6ae5f59e-d448-4296-9bbe-f9acd328ac88)
+# trigger này tự động điền nguyên liệu hết hạn 
+# ![Screenshot 2025-04-22 101918](https://github.com/user-attachments/assets/6b65460b-298e-4a35-a2db-2fd5efce63e5)
+# 4. Nhập dữ liệu có kiểm soát ,nhằm để test sự hiệu quả của việc trigger auto run
+# Kiểm Tra kết quả
+# ![Screenshot 2025-04-22 102143](https://github.com/user-attachments/assets/41a866b6-26ee-4284-bca9-f9c8a99ef845)
+# Kết luận trigerr này giúp gì cho đồ án 
+# 2 trigger này giúp e có thể tự động cho mỗi phiếu xuất này mỗi khi có dữ liệu chi tiết và hạn chế lại những thực phẩm hết hạn trong khi chế biến đồ ăn của nhà hàng ,và không cần phải bỏ thời gian để kiểm từng sản phảm một ,từ đó ghi lại log để theo dõi và còn kiểm soát được các sản phẩm hết hạn hay còn hạn .
